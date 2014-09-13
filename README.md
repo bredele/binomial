@@ -1,6 +1,10 @@
 binomial
 ========
 
+  binomial coefficient
+
+![binomial](binomial.png)
+
 ```js
 var binomial = require('binomial');
 
