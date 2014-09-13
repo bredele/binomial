@@ -9,17 +9,13 @@ var factorial = require('factorial');
 /**
  * Binomial coefficient.
  *
- * Examples:
- *
- * 	
- *
- * @param {Number} k
  * @param {Number} n
+ * @param {Number} k
  * @return {Number}
  * @api public
  */
 
-module.exports = function(k, n) {
+module.exports = function(n, k) {
   return factorial(n) / (factorial(k) * factorial(n - k));
 };
 

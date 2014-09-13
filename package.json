@@ -25,6 +25,9 @@
     "url": "https://github.com/bredele/binomial/issues"
   },
   "homepage": "https://github.com/bredele/binomial",
+  "dependencies": {
+    "factorial": "bredele/factorial"
+  },
   "devDependencies": {
     "mocha": "^1.21.4"
   }
