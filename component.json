@@ -1,0 +1,9 @@
+{
+  "name": "binomial",
+  "version": "0.0.0",
+  "main": "index.js",
+  "description": "binomial coefficient",
+  "dependencies": {
+  	"bredele/factorial": "*"
+  }
+}
